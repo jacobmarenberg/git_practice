@@ -1,1 +1,7 @@
 Hillary Clinton
+
+git init
+git add .txt/file
+git commit -m ".txt/file"
+git log
+get push -u origin master
